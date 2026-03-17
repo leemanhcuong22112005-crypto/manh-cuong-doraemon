@@ -1,101 +1,118 @@
-<h1 align="center">Cuong Le</h1>
-<p align="center"><i>— Aspiring Human Resources Professional —</i></p>
+<h1 align="center">Hi 👋, I'm Cuong</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6f/7d/5b/6f7d5b8d7e0d8e9c8c4e8c8c8e8c8e8c.gif" width="180"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+HR+Specialist;Content+Creator;Doraemon+Lover;Mèo+Xanh+Ăn+Xế+😏&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  🌟 🌈 💫 ✨ 🌸 🌼 💙 ✨ 💫 🌈 🌟
+</p>
+
+<h3 align="center">💙 Doraemon lover | Love blue | Travel ✈️ Food 🍜 Explorer</h3>
+
+<p align="center">
+  Also known as <b>Lee MC</b> or <b>Mèo Xanh Ăn Xế 😏</b>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
 </p>
 
 ---
 
-## About Me
-
-I am a third-year student with a strong interest in Human Resources, particularly in recruitment and people development.  
-
-I enjoy content creation, writing, and work that connects people. Through my academic journey and practical experiences, I have developed a genuine interest in understanding individuals and building meaningful professional relationships.  
-
-I am currently working toward becoming an HR professional who not only supports recruitment processes but also contributes to creating a positive and engaging workplace environment.
-
----
-
-## Education
-
-**Foreign Trade University (FTU)**  
-*Major in Business Chinese*  
-Third-year student  
+## 🌷 About Me
+- ✏️ I enjoy content creation, writing, and creative work  
+- 🤝 I like working with people and building connections  
+- 🎯 I want to become an HR in the future, especially in recruitment  
+- 🌈 I have some experience supporting recruitment and working with candidates  
+- 🌼 Always learning and improving every day  
 
 ---
 
-## Skills
+## 🎓 Education
+<p align="center">
+  <img src="https://img.shields.io/badge/FTU-Foreign%20Trade%20University-00bfff?style=for-the-badge"/>
+</p>
 
-- Microsoft Office (Word, Excel, PowerPoint)  
-- Teamwork & Event Coordination  
-- Communication, Active Listening & Problem Solving  
-- Research, Information Filtering & Analysis  
+- Third-year student majoring in Business Chinese  
 
 ---
 
-## Experience
+## 👨🏼‍🍳 Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Teamwork-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-00bfff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-32cd32?style=for-the-badge"/>
+</p>
 
-**4HANDY JSC**  
+• Microsoft Office (Word, Excel, PowerPoint)  
+• Teamwork & Event Coordination  
+• Communication, Active Listening & Problem Solving  
+• Research, Information Filtering & Analysis  
+
+---
+
+## 💼 Experience
+
+**4HANDY JSC | 08/2025 – 03/2026**  
 *HR Recruitment Staff (Part-time)*  
-Aug 2025 – Mar 2026  
-- Supported recruitment and interview processes across multiple brands  
-- Screened resumes and conducted reference checks  
-- Coordinated training schedules and probation periods  
-- Assisted in evaluating candidates after probation  
+• Supported recruitment and interview processes across Abby, Savor Cake, and Savor Bread  
+• Screened resumes and conducted reference checks  
+• Scheduled training and probation periods  
+• Assisted in evaluating probationary employees  
 
 ---
 
-**AN INVEST GROUP**  
+**AN INVEST GROUP | 03/2025 – 07/2025**  
 *Marketing Support (Part-time)*  
-Mar 2025 – Jul 2025  
-- Analyzed customer insights and planned weekly content  
-- Monitored performance and optimized content strategies  
-- Managed social media platforms  
+• Analyzed customer insights and planned weekly content (1 TikTok, 2 Facebook posts)  
+• Monitored performance and optimized content  
+• Managed 2 Facebook pages and 1 TikTok channel  
 
 ---
 
-**CUSTOM HUB VIETNAM**  
+**CUSTOM HUB VIETNAM | 03/2025 – 05/2025**  
 *Content Creator Intern*  
-Mar 2025 – May 2025  
-- Produced SEO blog content for e-commerce platform  
-- Collaborated with design team on product ideas  
-- Conducted market research to improve visibility  
+• Wrote SEO blog content for embroidery e-commerce (3 blogs/week)  
+• Developed product ideas with the design team  
+• Researched trends and improved website visibility  
 
 ---
 
-**SOCY MEDIA JSC**  
+**SOCY MEDIA JSC | 11/2024 – 02/2025**  
 *Content Writer (Part-time)*  
-Nov 2024 – Feb 2025  
-- Wrote and edited YouTube scripts  
-- Developed content ideas and concepts  
-- Researched trends and keywords  
+• Wrote and edited YouTube scripts (2/day)  
+• Developed video concepts  
+• Researched keywords and trends  
 
 ---
 
-## Activities
+## 📌 Projects & Extracurricular Activities
 
-**"Tet Dong Day" Event – FTU Institute of International Economics & Business**  
-Oct 2024 – Feb 2025  
-- Participated in fundraising activities  
-- Supported event organization and logistics  
-
----
-
-**Real Estate Market Research Club (REC FTU)**  
-Content Team Member  
-Oct 2023 – Jul 2024  
-- Developed content ideas for communication campaigns  
-- Managed internal content and supported event promotion  
-- Collaborated with design team for consistent branding  
+✨ **"Tet Dong Day" Event – FTU Institute of International Economics & Business**  
+*Collaborator*  
+• Participated in fundraising sales activities  
+• Supported event organization, program execution, and on-site logistics in Lang Son  
 
 ---
 
-## Contact
-
-Email: leemanhcuong22112005@gmail.com  
-GitHub: https://github.com/manh-cuong-doraemon  
+✨ **Real Estate Market Research Club (REC FTU)**  
+*Content Team Member*  
+• Brainstormed content ideas for weekly/monthly posts and club activities  
+• Created and managed content for internal fanpage to promote events  
+• Collaborated with the design team to ensure consistent branding  
 
 ---
 
-<p align="center"><i>“Simplicity is the ultimate sophistication.”</i></p>
+## 📫 Contact Me
+<p align="center">
+  💌 leemanhcuong22112005@gmail.com <br>
+  🌐 https://github.com/manh-cuong-doraemon
+</p>
+
+<p align="center">
+  🌟 💫 ✨ 🌈 💙 Mèo Xanh Ăn Xế is here 💙 🌈 ✨ 💫 🌟
+</p>
+
+
