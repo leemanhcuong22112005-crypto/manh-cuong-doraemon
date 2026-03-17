@@ -4,22 +4,21 @@
 
 ---
 
-## 🧠 About Me
-- 💡 I enjoy content creation, writing, and creative work  
+## 🌷 About Me
+- ✏️ I enjoy content creation, writing, and creative work  
 - 🤝 I like working with people and building connections  
 - 🎯 I want to become an HR in the future, especially in recruitment  
-- 🧩 I have some experience supporting recruitment and working with candidates  
-- 🚀 Always learning and improving every day  
+- 🌈 I have some experience supporting recruitment and working with candidates  
+- 🌼 Always learning and improving every day  
 
 ---
 
 ## 🎓 Education
-- Third-year student majoring in Business Chinese  
-- Foreign Trade University (FTU)  
+- Foreign Trade University (FTU) - Third-year student majoring in Business Chinese 
 
 ---
 
-## 🛠️ Skills
+## 👨🏼‍🍳 Skills
 • Microsoft Office (Word, Excel, PowerPoint)  
 • Teamwork & Event Coordination  
 • Communication, Active Listening & Problem Solving  
@@ -81,7 +80,7 @@
 
 ## 📫 Contact Me
 - 📧 Email: leemanhcuong22112005@gmail.com  
-- 🌐 GitHub: https://github.com/your-username  
+- 🌐 GitHub: https://github.com/manh-cuong-doraemon  
 
 ---
 
